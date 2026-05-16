@@ -1,0 +1,7882 @@
+[
+    {
+        "id": 130,
+        "word": "dog",
+        "translations": [
+            "cachorro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 131,
+        "word": "cat",
+        "translations": [
+            "gato"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 132,
+        "word": "fish",
+        "translations": [
+            "peixe"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 133,
+        "word": "bird",
+        "translations": [
+            "ave",
+            "pássaro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 134,
+        "word": "cow",
+        "translations": [
+            "vaca"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 135,
+        "word": "pig",
+        "translations": [
+            "porco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 136,
+        "word": "horse",
+        "translations": [
+            "cavalo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 137,
+        "word": "wing",
+        "translations": [
+            "asa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 138,
+        "word": "train",
+        "translations": [
+            "trem"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 139,
+        "word": "plane",
+        "translations": [
+            "avião"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 140,
+        "word": "car",
+        "translations": [
+            "carro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 141,
+        "word": "truck",
+        "translations": [
+            "caminhão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 142,
+        "word": "bicycle",
+        "translations": [
+            "bicicleta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 143,
+        "word": "bus",
+        "translations": [
+            "ônibus"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 144,
+        "word": "boat",
+        "translations": [
+            "barco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 145,
+        "word": "ship",
+        "translations": [
+            "navio"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 146,
+        "word": "tire",
+        "translations": [
+            "pneu"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 147,
+        "word": "gasoline",
+        "translations": [
+            "gasolina"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 148,
+        "word": "engine",
+        "translations": [
+            "motor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 149,
+        "word": "ticket",
+        "translations": [
+            "bilhete"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 150,
+        "word": "transportation",
+        "translations": [
+            "transporte"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 151,
+        "word": "city",
+        "translations": [
+            "cidade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 152,
+        "word": "house",
+        "translations": [
+            "casa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 153,
+        "word": "apartment",
+        "translations": [
+            "apartamento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 154,
+        "word": "street",
+        "translations": [
+            "rua"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 155,
+        "word": "airport",
+        "translations": [
+            "aeroporto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 156,
+        "word": "train station",
+        "translations": [
+            "estação de trem"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 157,
+        "word": "bridge",
+        "translations": [
+            "ponte"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 158,
+        "word": "hotel",
+        "translations": [
+            "hotel"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 159,
+        "word": "restaurant",
+        "translations": [
+            "restaurante"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 160,
+        "word": "farm",
+        "translations": [
+            "fazenda"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 161,
+        "word": "court",
+        "translations": [
+            "quadra (esportiva)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 162,
+        "word": "school",
+        "translations": [
+            "escola"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 163,
+        "word": "office",
+        "translations": [
+            "escritório"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 164,
+        "word": "room",
+        "translations": [
+            "quarto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 165,
+        "word": "town",
+        "translations": [
+            "cidade (pequena)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 166,
+        "word": "university",
+        "translations": [
+            "universidade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 167,
+        "word": "club",
+        "translations": [
+            "clube",
+            "boate"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 168,
+        "word": "bar",
+        "translations": [
+            "bar"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 169,
+        "word": "park",
+        "translations": [
+            "parque"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 170,
+        "word": "camp",
+        "translations": [
+            "acampamento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 171,
+        "word": "store/shop",
+        "translations": [
+            "loja"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 172,
+        "word": "theater",
+        "translations": [
+            "teatro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 173,
+        "word": "library",
+        "translations": [
+            "biblioteca"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 174,
+        "word": "hospital",
+        "translations": [
+            "hospital"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 175,
+        "word": "church",
+        "translations": [
+            "igreja"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 176,
+        "word": "market",
+        "translations": [
+            "mercado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 177,
+        "word": "country",
+        "translations": [
+            "país"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 178,
+        "word": "building",
+        "translations": [
+            "prédio",
+            "construção"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 179,
+        "word": "ground",
+        "translations": [
+            "solo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 180,
+        "word": "space (outer space)",
+        "translations": [
+            "espaço (sideral)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 181,
+        "word": "bank",
+        "translations": [
+            "banco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 182,
+        "word": "location",
+        "translations": [
+            "lugar"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 183,
+        "word": "hat",
+        "translations": [
+            "chapéu"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 184,
+        "word": "dress",
+        "translations": [
+            "vestido"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 185,
+        "word": "suit",
+        "translations": [
+            "traje"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 186,
+        "word": "skirt",
+        "translations": [
+            "saia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 187,
+        "word": "shirt",
+        "translations": [
+            "camisa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 188,
+        "word": "T-shirt",
+        "translations": [
+            "camiseta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 189,
+        "word": "pants",
+        "translations": [
+            "calças"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 190,
+        "word": "pocket",
+        "translations": [
+            "bolso"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 191,
+        "word": "coat",
+        "translations": [
+            "casaco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 192,
+        "word": "stain",
+        "translations": [
+            "mancha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 193,
+        "word": "clothing",
+        "translations": [
+            "roupas"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 194,
+        "word": "color",
+        "translations": [
+            "cor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 195,
+        "word": "son",
+        "translations": [
+            "filho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 196,
+        "word": "daughter",
+        "translations": [
+            "filha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 197,
+        "word": "mother",
+        "translations": [
+            "mãe"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 198,
+        "word": "father",
+        "translations": [
+            "pai"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 199,
+        "word": "parent",
+        "translations": [
+            "pais (pai/mãe)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 200,
+        "word": "baby",
+        "translations": [
+            "bebê"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 201,
+        "word": "man",
+        "translations": [
+            "homem"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 202,
+        "word": "woman",
+        "translations": [
+            "mulher"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 203,
+        "word": "brother",
+        "translations": [
+            "irmão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 204,
+        "word": "sister",
+        "translations": [
+            "irmã"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 205,
+        "word": "family",
+        "translations": [
+            "família"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 206,
+        "word": "grandfather",
+        "translations": [
+            "avô"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 207,
+        "word": "grandmother",
+        "translations": [
+            "avó"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 208,
+        "word": "husband",
+        "translations": [
+            "marido"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 209,
+        "word": "wife",
+        "translations": [
+            "esposa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 210,
+        "word": "king",
+        "translations": [
+            "rei"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 211,
+        "word": "queen",
+        "translations": [
+            "rainha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 212,
+        "word": "president",
+        "translations": [
+            "presidente"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 213,
+        "word": "neighbor",
+        "translations": [
+            "vizinho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 214,
+        "word": "boy",
+        "translations": [
+            "menino"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 215,
+        "word": "girl",
+        "translations": [
+            "menina"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 216,
+        "word": "child",
+        "translations": [
+            "criança"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 217,
+        "word": "adult",
+        "translations": [
+            "adulto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 218,
+        "word": "human",
+        "translations": [
+            "humano"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 219,
+        "word": "friend",
+        "translations": [
+            "amigo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 220,
+        "word": "victim",
+        "translations": [
+            "vítima"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 221,
+        "word": "player",
+        "translations": [
+            "jogador"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 222,
+        "word": "fan",
+        "translations": [
+            "fã"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 223,
+        "word": "crowd",
+        "translations": [
+            "multidão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 224,
+        "word": "person",
+        "translations": [
+            "pessoa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 225,
+        "word": "teacher",
+        "translations": [
+            "professor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 226,
+        "word": "student",
+        "translations": [
+            "estudante"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 227,
+        "word": "lawyer",
+        "translations": [
+            "advogado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 228,
+        "word": "doctor",
+        "translations": [
+            "médico"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 229,
+        "word": "patient",
+        "translations": [
+            "paciente (hospital)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 230,
+        "word": "waiter",
+        "translations": [
+            "garçom"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 231,
+        "word": "secretary",
+        "translations": [
+            "secretário"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 232,
+        "word": "priest",
+        "translations": [
+            "padre",
+            "sacerdote"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 233,
+        "word": "police",
+        "translations": [
+            "polícia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 234,
+        "word": "army",
+        "translations": [
+            "exército"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 235,
+        "word": "soldier",
+        "translations": [
+            "soldado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 236,
+        "word": "artist",
+        "translations": [
+            "artista"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 237,
+        "word": "author",
+        "translations": [
+            "autor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 238,
+        "word": "manager",
+        "translations": [
+            "administrador"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 239,
+        "word": "reporter",
+        "translations": [
+            "repórter"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 240,
+        "word": "actor",
+        "translations": [
+            "ator"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 241,
+        "word": "actress",
+        "translations": [
+            "atriz"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 242,
+        "word": "job",
+        "translations": [
+            "trabalho",
+            "emprego"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 243,
+        "word": "religion",
+        "translations": [
+            "religião"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 244,
+        "word": "heaven",
+        "translations": [
+            "céu",
+            "Paraíso"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 245,
+        "word": "hell",
+        "translations": [
+            "inferno"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 246,
+        "word": "death",
+        "translations": [
+            "morte"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 247,
+        "word": "medicine",
+        "translations": [
+            "medicina"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 248,
+        "word": "money",
+        "translations": [
+            "dinheiro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 249,
+        "word": "dollar",
+        "translations": [
+            "dólar"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 250,
+        "word": "bill",
+        "translations": [
+            "nota",
+            "conta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 251,
+        "word": "marriage",
+        "translations": [
+            "casamento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 252,
+        "word": "wedding",
+        "translations": [
+            "festa de casamento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 253,
+        "word": "team",
+        "translations": [
+            "time"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 254,
+        "word": "race (ethnicity)",
+        "translations": [
+            "raça"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 255,
+        "word": "sex",
+        "translations": [
+            "sexo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 256,
+        "word": "murder",
+        "translations": [
+            "assassinato"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 257,
+        "word": "prison",
+        "translations": [
+            "prisão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 258,
+        "word": "technology",
+        "translations": [
+            "tecnologia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 259,
+        "word": "energy",
+        "translations": [
+            "energia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 260,
+        "word": "war",
+        "translations": [
+            "guerra"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 261,
+        "word": "peace",
+        "translations": [
+            "paz"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 262,
+        "word": "attack",
+        "translations": [
+            "ataque"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 263,
+        "word": "election",
+        "translations": [
+            "eleição"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 264,
+        "word": "magazine",
+        "translations": [
+            "revista"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 265,
+        "word": "newpaper",
+        "translations": [
+            "jornal"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 266,
+        "word": "poison",
+        "translations": [
+            "veneno"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 267,
+        "word": "gun",
+        "translations": [
+            "arma de fogo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 268,
+        "word": "sport",
+        "translations": [
+            "esporte"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 269,
+        "word": "race (sport)",
+        "translations": [
+            "corrida"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 270,
+        "word": "exercise",
+        "translations": [
+            "exercício"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 271,
+        "word": "ball",
+        "translations": [
+            "bola"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 272,
+        "word": "game",
+        "translations": [
+            "jogo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 273,
+        "word": "price",
+        "translations": [
+            "preço"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 274,
+        "word": "contract",
+        "translations": [
+            "contrato"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 275,
+        "word": "drug",
+        "translations": [
+            "droga"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 276,
+        "word": "sign",
+        "translations": [
+            "sinal"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 277,
+        "word": "science",
+        "translations": [
+            "ciência"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 278,
+        "word": "God",
+        "translations": [
+            "Deus"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 279,
+        "word": "band",
+        "translations": [
+            "banda"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 280,
+        "word": "song",
+        "translations": [
+            "canção"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 281,
+        "word": "muscial instrument",
+        "translations": [
+            "instrumento musical"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 282,
+        "word": "music",
+        "translations": [
+            "música"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 283,
+        "word": "movie",
+        "translations": [
+            "filme"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 284,
+        "word": "art",
+        "translations": [
+            "arte"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 285,
+        "word": "coffee",
+        "translations": [
+            "café"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 286,
+        "word": "tea",
+        "translations": [
+            "chá"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 287,
+        "word": "wine",
+        "translations": [
+            "vinho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 288,
+        "word": "beer",
+        "translations": [
+            "cerveja"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 289,
+        "word": "juice",
+        "translations": [
+            "suco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 290,
+        "word": "water",
+        "translations": [
+            "água"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 291,
+        "word": "milk",
+        "translations": [
+            "leite"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 292,
+        "word": "beverage",
+        "translations": [
+            "bebida"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 293,
+        "word": "egg",
+        "translations": [
+            "ovo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 294,
+        "word": "cheese",
+        "translations": [
+            "queijo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 295,
+        "word": "bread",
+        "translations": [
+            "pão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 296,
+        "word": "soup",
+        "translations": [
+            "sopa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 297,
+        "word": "cake",
+        "translations": [
+            "bolo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 298,
+        "word": "chicken",
+        "translations": [
+            "frango"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 299,
+        "word": "pork",
+        "translations": [
+            "carne de porco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 300,
+        "word": "beef",
+        "translations": [
+            "carne de gado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 301,
+        "word": "apple",
+        "translations": [
+            "maçã"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 302,
+        "word": "banana",
+        "translations": [
+            "banana"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 303,
+        "word": "orange",
+        "translations": [
+            "laranja"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 304,
+        "word": "lemon",
+        "translations": [
+            "limão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 305,
+        "word": "corn",
+        "translations": [
+            "milho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 306,
+        "word": "rice",
+        "translations": [
+            "arroz"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 307,
+        "word": "oil",
+        "translations": [
+            "óleo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 308,
+        "word": "seed",
+        "translations": [
+            "semente",
+            "grão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 309,
+        "word": "knife",
+        "translations": [
+            "faca"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 310,
+        "word": "spoon",
+        "translations": [
+            "colher"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 311,
+        "word": "fork",
+        "translations": [
+            "garfo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 312,
+        "word": "plate",
+        "translations": [
+            "prato"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 313,
+        "word": "cup",
+        "translations": [
+            "xícara"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 314,
+        "word": "breakfast",
+        "translations": [
+            "café da manhã"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 315,
+        "word": "lunch",
+        "translations": [
+            "almoço"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 316,
+        "word": "dinner",
+        "translations": [
+            "janta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 317,
+        "word": "sugar",
+        "translations": [
+            "açúcar"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 318,
+        "word": "salt",
+        "translations": [
+            "sal"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 319,
+        "word": "bottle",
+        "translations": [
+            "garrafa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 320,
+        "word": "food",
+        "translations": [
+            "comida"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 321,
+        "word": "table",
+        "translations": [
+            "mesa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 322,
+        "word": "chair",
+        "translations": [
+            "cadeira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 323,
+        "word": "bed",
+        "translations": [
+            "cama"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 324,
+        "word": "dream",
+        "translations": [
+            "sonho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 325,
+        "word": "window",
+        "translations": [
+            "janela"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 326,
+        "word": "door",
+        "translations": [
+            "porta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 327,
+        "word": "bedroom",
+        "translations": [
+            "quarto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 328,
+        "word": "kitchen",
+        "translations": [
+            "cozinha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 329,
+        "word": "bathroom",
+        "translations": [
+            "banheiro (de casa)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 330,
+        "word": "pencil",
+        "translations": [
+            "lápis"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 331,
+        "word": "pen",
+        "translations": [
+            "caneta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 332,
+        "word": "photograph",
+        "translations": [
+            "fotografia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 333,
+        "word": "soap",
+        "translations": [
+            "sabão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 334,
+        "word": "book",
+        "translations": [
+            "livro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 335,
+        "word": "page",
+        "translations": [
+            "página"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 336,
+        "word": "key",
+        "translations": [
+            "chave"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 337,
+        "word": "paint",
+        "translations": [
+            "pintura",
+            "tinta (de parede)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 338,
+        "word": "letter",
+        "translations": [
+            "carta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 339,
+        "word": "note",
+        "translations": [
+            "nota"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 340,
+        "word": "wall",
+        "translations": [
+            "parede"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 341,
+        "word": "paper",
+        "translations": [
+            "papel"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 342,
+        "word": "floor",
+        "translations": [
+            "chão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 343,
+        "word": "ceiling",
+        "translations": [
+            "teto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 344,
+        "word": "roof",
+        "translations": [
+            "telhado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 345,
+        "word": "pool",
+        "translations": [
+            "piscina"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 346,
+        "word": "lock",
+        "translations": [
+            "cadeado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 347,
+        "word": "telephone",
+        "translations": [
+            "telefone"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 348,
+        "word": "garden",
+        "translations": [
+            "jardim"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 349,
+        "word": "yard",
+        "translations": [
+            "quintal"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 350,
+        "word": "needle",
+        "translations": [
+            "agulha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 351,
+        "word": "bag",
+        "translations": [
+            "saco, bolsa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 352,
+        "word": "box",
+        "translations": [
+            "caixa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 353,
+        "word": "gift",
+        "translations": [
+            "presente"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 354,
+        "word": "card",
+        "translations": [
+            "cartão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 355,
+        "word": "ring",
+        "translations": [
+            "anel"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 356,
+        "word": "tool",
+        "translations": [
+            "ferramenta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 357,
+        "word": "clock",
+        "translations": [
+            "relógio (de parede)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 358,
+        "word": "lamp",
+        "translations": [
+            "abajur"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 359,
+        "word": "fan",
+        "translations": [
+            "ventilador"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 360,
+        "word": "cell phone",
+        "translations": [
+            "celular"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 361,
+        "word": "network",
+        "translations": [
+            "rede"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 362,
+        "word": "computer",
+        "translations": [
+            "computador"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 363,
+        "word": "program (computer)",
+        "translations": [
+            "programa (computador)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 364,
+        "word": "laptop",
+        "translations": [
+            "notebook"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 365,
+        "word": "screen",
+        "translations": [
+            "tela"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 366,
+        "word": "camera",
+        "translations": [
+            "câmera"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 367,
+        "word": "television",
+        "translations": [
+            "televisão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 368,
+        "word": "radio",
+        "translations": [
+            "rádio"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 369,
+        "word": "head",
+        "translations": [
+            "cabeça"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 370,
+        "word": "neck",
+        "translations": [
+            "pescoço"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 371,
+        "word": "face",
+        "translations": [
+            "rosto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 372,
+        "word": "beard",
+        "translations": [
+            "barba"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 373,
+        "word": "hair",
+        "translations": [
+            "cabelo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 374,
+        "word": "eye",
+        "translations": [
+            "olho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 375,
+        "word": "mouth",
+        "translations": [
+            "boca"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 376,
+        "word": "lip",
+        "translations": [
+            "lábio"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 377,
+        "word": "nose",
+        "translations": [
+            "nariz"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 378,
+        "word": "tooth",
+        "translations": [
+            "dente"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 379,
+        "word": "ear",
+        "translations": [
+            "orelha",
+            "ouvido"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 380,
+        "word": "tear",
+        "translations": [
+            "lágrima"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 381,
+        "word": "tongue",
+        "translations": [
+            "língua"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 382,
+        "word": "back",
+        "translations": [
+            "costas"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 383,
+        "word": "toe",
+        "translations": [
+            "dedo (do pé)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 384,
+        "word": "finger",
+        "translations": [
+            "dedo (da mão)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 385,
+        "word": "foot",
+        "translations": [
+            "pé"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 386,
+        "word": "hand",
+        "translations": [
+            "mão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 387,
+        "word": "leg",
+        "translations": [
+            "perna"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 388,
+        "word": "arm",
+        "translations": [
+            "braço"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 389,
+        "word": "shoulder",
+        "translations": [
+            "ombro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 390,
+        "word": "heart",
+        "translations": [
+            "coração"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 391,
+        "word": "blood",
+        "translations": [
+            "sangue"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 392,
+        "word": "brain",
+        "translations": [
+            "cérebro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 393,
+        "word": "knee",
+        "translations": [
+            "joelho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 394,
+        "word": "sweat",
+        "translations": [
+            "suor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 395,
+        "word": "disease",
+        "translations": [
+            "doença"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 396,
+        "word": "bone",
+        "translations": [
+            "osso"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 397,
+        "word": "voice",
+        "translations": [
+            "voz"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 398,
+        "word": "skin",
+        "translations": [
+            "pele"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 399,
+        "word": "body",
+        "translations": [
+            "corpo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 400,
+        "word": "sea",
+        "translations": [
+            "mar"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 401,
+        "word": "ocean",
+        "translations": [
+            "oceano"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 402,
+        "word": "river",
+        "translations": [
+            "rio"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 403,
+        "word": "mountain",
+        "translations": [
+            "montanha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 404,
+        "word": "rain",
+        "translations": [
+            "chuva"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 405,
+        "word": "snow",
+        "translations": [
+            "neve"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 406,
+        "word": "tree",
+        "translations": [
+            "árvore"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 407,
+        "word": "sun",
+        "translations": [
+            "sol"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 408,
+        "word": "moon",
+        "translations": [
+            "lua"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 409,
+        "word": "world",
+        "translations": [
+            "mundo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 410,
+        "word": "Earth",
+        "translations": [
+            "Terra (planeta)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 411,
+        "word": "forest",
+        "translations": [
+            "floresta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 412,
+        "word": "sky",
+        "translations": [
+            "céu"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 413,
+        "word": "plant",
+        "translations": [
+            "planta"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 414,
+        "word": "wind",
+        "translations": [
+            "vento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 415,
+        "word": "soil/earth",
+        "translations": [
+            "solo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 416,
+        "word": "flower",
+        "translations": [
+            "flor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 417,
+        "word": "valley",
+        "translations": [
+            "vale"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 418,
+        "word": "root",
+        "translations": [
+            "raiz"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 419,
+        "word": "lake",
+        "translations": [
+            "lago"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 420,
+        "word": "star",
+        "translations": [
+            "estrela"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 421,
+        "word": "grass",
+        "translations": [
+            "grama"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 422,
+        "word": "leaf",
+        "translations": [
+            "folha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 423,
+        "word": "sand",
+        "translations": [
+            "areia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 424,
+        "word": "beach",
+        "translations": [
+            "praia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 425,
+        "word": "wave",
+        "translations": [
+            "onda"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 426,
+        "word": "fire",
+        "translations": [
+            "fogo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 427,
+        "word": "ice",
+        "translations": [
+            "gelo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 428,
+        "word": "island",
+        "translations": [
+            "ilha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 429,
+        "word": "hill",
+        "translations": [
+            "colina"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 430,
+        "word": "heat",
+        "translations": [
+            "calor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 431,
+        "word": "nature",
+        "translations": [
+            "natureza"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 432,
+        "word": "glass",
+        "translations": [
+            "vidro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 433,
+        "word": "metal",
+        "translations": [
+            "metal"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 434,
+        "word": "plastic",
+        "translations": [
+            "plástico"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 435,
+        "word": "wood",
+        "translations": [
+            "madeira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 436,
+        "word": "stone",
+        "translations": [
+            "pedra"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 437,
+        "word": "diamond",
+        "translations": [
+            "diamante"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 438,
+        "word": "clay",
+        "translations": [
+            "argila"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 439,
+        "word": "dust",
+        "translations": [
+            "poeira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 440,
+        "word": "gold",
+        "translations": [
+            "ouro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 441,
+        "word": "copper",
+        "translations": [
+            "cobre"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 442,
+        "word": "silver",
+        "translations": [
+            "prata"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 443,
+        "word": "material",
+        "translations": [
+            "material"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 444,
+        "word": "meter",
+        "translations": [
+            "metro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 445,
+        "word": "centimeter",
+        "translations": [
+            "centímetro (cm)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 446,
+        "word": "kilogram",
+        "translations": [
+            "quilograma (km)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 447,
+        "word": "inch",
+        "translations": [
+            "polegada (~2.54 cm)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 448,
+        "word": "pound",
+        "translations": [
+            "libra (~453 gramas)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 449,
+        "word": "half",
+        "translations": [
+            "metade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 450,
+        "word": "circle",
+        "translations": [
+            "círculo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 451,
+        "word": "square",
+        "translations": [
+            "quadrado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 452,
+        "word": "temperature",
+        "translations": [
+            "temperatura"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 453,
+        "word": "date",
+        "translations": [
+            "data"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 454,
+        "word": "weight",
+        "translations": [
+            "peso"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 455,
+        "word": "edge",
+        "translations": [
+            "aresta",
+            "borda",
+            "beira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 456,
+        "word": "corner",
+        "translations": [
+            "canto",
+            "esquina"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 457,
+        "word": "map",
+        "translations": [
+            "mapa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 458,
+        "word": "dot",
+        "translations": [
+            "ponto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 459,
+        "word": "consonant",
+        "translations": [
+            "consoante"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 460,
+        "word": "vowel",
+        "translations": [
+            "vogal"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 461,
+        "word": "light",
+        "translations": [
+            "luz"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 462,
+        "word": "sound",
+        "translations": [
+            "som"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 463,
+        "word": "yes",
+        "translations": [
+            "sim"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 464,
+        "word": "no",
+        "translations": [
+            "não"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 465,
+        "word": "piece",
+        "translations": [
+            "pedaço"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 466,
+        "word": "pain",
+        "translations": [
+            "dor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 467,
+        "word": "injury",
+        "translations": [
+            "lesão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 468,
+        "word": "hole",
+        "translations": [
+            "buraco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 469,
+        "word": "image",
+        "translations": [
+            "imagem"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 470,
+        "word": "pattern",
+        "translations": [
+            "padrão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 471,
+        "word": "noun",
+        "translations": [
+            "substantivo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 472,
+        "word": "verb",
+        "translations": [
+            "verbo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 473,
+        "word": "adjective",
+        "translations": [
+            "adjetivo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 474,
+        "word": "top",
+        "translations": [
+            "parte de cima"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 475,
+        "word": "bottom",
+        "translations": [
+            "parte de baixo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 476,
+        "word": "side",
+        "translations": [
+            "lado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 477,
+        "word": "front",
+        "translations": [
+            "frente",
+            "em frente"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 478,
+        "word": "back",
+        "translations": [
+            "atrás",
+            "para trás"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 479,
+        "word": "north",
+        "translations": [
+            "norte"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 480,
+        "word": "south",
+        "translations": [
+            "sul"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 481,
+        "word": "east",
+        "translations": [
+            "leste"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 482,
+        "word": "west",
+        "translations": [
+            "oeste"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 483,
+        "word": "direction",
+        "translations": [
+            "direção"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 484,
+        "word": "summer",
+        "translations": [
+            "verão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 485,
+        "word": "spring",
+        "translations": [
+            "primavera"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 486,
+        "word": "winter",
+        "translations": [
+            "inverno"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 487,
+        "word": "fall, autumn",
+        "translations": [
+            "outono"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 488,
+        "word": "season",
+        "translations": [
+            "estação",
+            "temporada"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 489,
+        "word": "zero",
+        "translations": [
+            "zero"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 490,
+        "word": "one",
+        "translations": [
+            "um"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 491,
+        "word": "two",
+        "translations": [
+            "dois"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 492,
+        "word": "three",
+        "translations": [
+            "três"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 493,
+        "word": "four",
+        "translations": [
+            "quatro"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 494,
+        "word": "five",
+        "translations": [
+            "cinco"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 495,
+        "word": "six",
+        "translations": [
+            "seis"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 496,
+        "word": "seven",
+        "translations": [
+            "sete"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 497,
+        "word": "eight",
+        "translations": [
+            "oito"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 498,
+        "word": "nine",
+        "translations": [
+            "nove"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 499,
+        "word": "ten",
+        "translations": [
+            "dez"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 500,
+        "word": "eleven",
+        "translations": [
+            "onze"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 501,
+        "word": "twelve",
+        "translations": [
+            "doze"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 502,
+        "word": "thirteen",
+        "translations": [
+            "treze"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 503,
+        "word": "fourteen",
+        "translations": [
+            "quatorze"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 504,
+        "word": "fifteen",
+        "translations": [
+            "quinze"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 505,
+        "word": "sixteen",
+        "translations": [
+            "dezesseis"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 506,
+        "word": "seventeen",
+        "translations": [
+            "dezessete"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 507,
+        "word": "eighteen",
+        "translations": [
+            "dezoito"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 508,
+        "word": "nineteen",
+        "translations": [
+            "dezenove"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 509,
+        "word": "twenty",
+        "translations": [
+            "vinte"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 510,
+        "word": "twenty one",
+        "translations": [
+            "vinte e um"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 511,
+        "word": "twenty two",
+        "translations": [
+            "vinte e dois"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 512,
+        "word": "thirty",
+        "translations": [
+            "trinta"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 513,
+        "word": "forty",
+        "translations": [
+            "quarenta"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 514,
+        "word": "fifty",
+        "translations": [
+            "cinquenta"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 515,
+        "word": "sixty",
+        "translations": [
+            "sessenta"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 516,
+        "word": "seventy",
+        "translations": [
+            "setenta"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 517,
+        "word": "eighty",
+        "translations": [
+            "oitenta"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 518,
+        "word": "ninety",
+        "translations": [
+            "noventa"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 519,
+        "word": "one hundred",
+        "translations": [
+            "cem"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 520,
+        "word": "one hundred one",
+        "translations": [
+            "cento e vinte e um"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 521,
+        "word": "two hundred",
+        "translations": [
+            "duzentos"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 522,
+        "word": "three hundred",
+        "translations": [
+            "trezentos"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 523,
+        "word": "four hundred",
+        "translations": [
+            "quantrocentos"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 524,
+        "word": "five hundred",
+        "translations": [
+            "quinhentos"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 525,
+        "word": "one thousand",
+        "translations": [
+            "mil"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 526,
+        "word": "one million",
+        "translations": [
+            "um milhão"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 527,
+        "word": "one billion",
+        "translations": [
+            "um bilhão"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 528,
+        "word": "first",
+        "translations": [
+            "primeiro"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 529,
+        "word": "second",
+        "translations": [
+            "segundo"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 530,
+        "word": "third",
+        "translations": [
+            "terceiro, terço (1/3)"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 531,
+        "word": "fourth (1/4)",
+        "translations": [
+            "quarto (1/4)"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 532,
+        "word": "fifth",
+        "translations": [
+            "quinto"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 533,
+        "word": "sixth",
+        "translations": [
+            "sexto"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 534,
+        "word": "seventh",
+        "translations": [
+            "sétimo"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 535,
+        "word": "eighth",
+        "translations": [
+            "oitavo"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 536,
+        "word": "ninth",
+        "translations": [
+            "nono"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 537,
+        "word": "tenth",
+        "translations": [
+            "décimo"
+        ],
+        "wordClass": [
+            "numeral"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 538,
+        "word": "number",
+        "translations": [
+            "número"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 539,
+        "word": "January",
+        "translations": [
+            "janeiro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 540,
+        "word": "February",
+        "translations": [
+            "fevereiro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 541,
+        "word": "March",
+        "translations": [
+            "março"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 542,
+        "word": "April",
+        "translations": [
+            "abril"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 543,
+        "word": "May",
+        "translations": [
+            "maio"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 544,
+        "word": "June",
+        "translations": [
+            "junho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 545,
+        "word": "July",
+        "translations": [
+            "julho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 546,
+        "word": "August",
+        "translations": [
+            "agosto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 547,
+        "word": "September",
+        "translations": [
+            "setembro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 548,
+        "word": "October",
+        "translations": [
+            "outubro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 549,
+        "word": "November",
+        "translations": [
+            "novembro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 550,
+        "word": "December",
+        "translations": [
+            "decemebro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 551,
+        "word": "Monday",
+        "translations": [
+            "segunda-feira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 552,
+        "word": "Tuesday",
+        "translations": [
+            "terça-feira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 553,
+        "word": "Wednesday",
+        "translations": [
+            "quarta-feira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 554,
+        "word": "Thursday",
+        "translations": [
+            "quinta-feira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 555,
+        "word": "Friday",
+        "translations": [
+            "sexta-feira"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 556,
+        "word": "Saturday",
+        "translations": [
+            "sábado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 557,
+        "word": "Sunday",
+        "translations": [
+            "domingo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 558,
+        "word": "year",
+        "translations": [
+            "ano"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 559,
+        "word": "month",
+        "translations": [
+            "mês"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 560,
+        "word": "week",
+        "translations": [
+            "semana"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 561,
+        "word": "day",
+        "translations": [
+            "dia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 562,
+        "word": "hour",
+        "translations": [
+            "hora"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 563,
+        "word": "minute",
+        "translations": [
+            "minuto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 564,
+        "word": "second",
+        "translations": [
+            "segundo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 565,
+        "word": "morning",
+        "translations": [
+            "manhã"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 566,
+        "word": "afternoon",
+        "translations": [
+            "tarde"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 567,
+        "word": "evening",
+        "translations": [
+            "final da tarde"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 568,
+        "word": "night",
+        "translations": [
+            "noite"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 569,
+        "word": "time",
+        "translations": [
+            "tempo (relógio)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 570,
+        "word": "I",
+        "translations": [
+            "eu"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 571,
+        "word": "you",
+        "translations": [
+            "você"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 572,
+        "word": "he",
+        "translations": [
+            "ele"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 573,
+        "word": "she",
+        "translations": [
+            "ela"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 574,
+        "word": "it",
+        "translations": [
+            "ele/ela (para objetos)"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 575,
+        "word": "we",
+        "translations": [
+            "nós"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 576,
+        "word": "you (you guys, y'all)",
+        "translations": [
+            "vocês"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 577,
+        "word": "they",
+        "translations": [
+            "eles"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 578,
+        "word": "people",
+        "translations": [
+            "pessoas",
+            "povo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 579,
+        "word": "way",
+        "translations": [
+            "caminho",
+            "jeito"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 580,
+        "word": "thing",
+        "translations": [
+            "coisa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 581,
+        "word": "Mr.",
+        "translations": [
+            "Sr."
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 582,
+        "word": "government",
+        "translations": [
+            "governo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 583,
+        "word": "work",
+        "translations": [
+            "trabalho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 584,
+        "word": "life",
+        "translations": [
+            "vida"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 585,
+        "word": "system",
+        "translations": [
+            "sistema"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 586,
+        "word": "case",
+        "translations": [
+            "caso"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 587,
+        "word": "part",
+        "translations": [
+            "parte"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 588,
+        "word": "group",
+        "translations": [
+            "grupo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 589,
+        "word": "area",
+        "translations": [
+            "área"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 590,
+        "word": "word",
+        "translations": [
+            "palavra"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 591,
+        "word": "fact",
+        "translations": [
+            "fato"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 592,
+        "word": "business",
+        "translations": [
+            "negócio"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 593,
+        "word": "home",
+        "translations": [
+            "lar"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 594,
+        "word": "question",
+        "translations": [
+            "questão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 595,
+        "word": "information",
+        "translations": [
+            "informação"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 596,
+        "word": "power",
+        "translations": [
+            "poder",
+            "potência"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 597,
+        "word": "change",
+        "translations": [
+            "mudança"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 598,
+        "word": "interest",
+        "translations": [
+            "interesse"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 599,
+        "word": "development",
+        "translations": [
+            "desenvolvimento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 600,
+        "word": "other",
+        "translations": [
+            "outro"
+        ],
+        "wordClass": [
+            "pronoun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 601,
+        "word": "form",
+        "translations": [
+            "forma",
+            "formulário"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 602,
+        "word": "level",
+        "translations": [
+            "nível"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 603,
+        "word": "council",
+        "translations": [
+            "câmara",
+            "conselho"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 604,
+        "word": "policy",
+        "translations": [
+            "política"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 605,
+        "word": "court",
+        "translations": [
+            "corte",
+            "tribunal"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 606,
+        "word": "effect",
+        "translations": [
+            "efeito"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 607,
+        "word": "result",
+        "translations": [
+            "resultado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 608,
+        "word": "idea",
+        "translations": [
+            "ideia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 609,
+        "word": "use",
+        "translations": [
+            "uso"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 610,
+        "word": "study",
+        "translations": [
+            "estudo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 611,
+        "word": "name",
+        "translations": [
+            "nome"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 612,
+        "word": "report",
+        "translations": [
+            "relatório, boletim"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 613,
+        "word": "line",
+        "translations": [
+            "linha"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 614,
+        "word": "law",
+        "translations": [
+            "lei"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 615,
+        "word": "authority",
+        "translations": [
+            "autoridade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 616,
+        "word": "road",
+        "translations": [
+            "estrada"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 617,
+        "word": "minister",
+        "translations": [
+            "ministro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 618,
+        "word": "rate",
+        "translations": [
+            "taxa",
+            "ritmo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 619,
+        "word": "reason",
+        "translations": [
+            "razão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 620,
+        "word": "view",
+        "translations": [
+            "vista"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 621,
+        "word": "term",
+        "translations": [
+            "termo",
+            "prazo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 622,
+        "word": "period",
+        "translations": [
+            "período"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 623,
+        "word": "center",
+        "translations": [
+            "centro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 624,
+        "word": "figure",
+        "translations": [
+            "figura",
+            "dígito"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 625,
+        "word": "society",
+        "translations": [
+            "sociedade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 626,
+        "word": "need",
+        "translations": [
+            "necessidade",
+            "carência"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 627,
+        "word": "community",
+        "translations": [
+            "comunidade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 628,
+        "word": "kind",
+        "translations": [
+            "tipo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 629,
+        "word": "control",
+        "translations": [
+            "controle"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 630,
+        "word": "action",
+        "translations": [
+            "ação"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 631,
+        "word": "cost",
+        "translations": [
+            "custo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 632,
+        "word": "issue",
+        "translations": [
+            "questão",
+            "problema"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 633,
+        "word": "process",
+        "translations": [
+            "processo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 634,
+        "word": "position",
+        "translations": [
+            "posição"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 635,
+        "word": "course",
+        "translations": [
+            "curso"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 636,
+        "word": "education",
+        "translations": [
+            "educação"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 637,
+        "word": "type",
+        "translations": [
+            "tipo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 638,
+        "word": "research",
+        "translations": [
+            "pesquisa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 639,
+        "word": "subject",
+        "translations": [
+            "sujeito",
+            "tema",
+            "matéria (escolar)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 640,
+        "word": "moment",
+        "translations": [
+            "momento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 641,
+        "word": "age",
+        "translations": [
+            "idade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 642,
+        "word": "force",
+        "translations": [
+            "força"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 643,
+        "word": "order",
+        "translations": [
+            "pedido",
+            "encomenda",
+            "ordem"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 644,
+        "word": "value",
+        "translations": [
+            "valor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 645,
+        "word": "act",
+        "translations": [
+            "ato"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 646,
+        "word": "matter",
+        "translations": [
+            "assunto",
+            "matéria (física)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 647,
+        "word": "health",
+        "translations": [
+            "saúde"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 648,
+        "word": "(a) lot",
+        "translations": [
+            "muito"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 649,
+        "word": "decision",
+        "translations": [
+            "decisão"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 650,
+        "word": "industry",
+        "translations": [
+            "indústria"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 651,
+        "word": "class",
+        "translations": [
+            "classe",
+            "aula"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 652,
+        "word": "mind",
+        "translations": [
+            "mente"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 653,
+        "word": "condition",
+        "translations": [
+            "condição"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 654,
+        "word": "centuty",
+        "translations": [
+            "século"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 655,
+        "word": "section",
+        "translations": [
+            "seção"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 656,
+        "word": "activity",
+        "translations": [
+            "atividade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 657,
+        "word": "sense",
+        "translations": [
+            "sentido"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 658,
+        "word": "sort",
+        "translations": [
+            "tipo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 659,
+        "word": "staff",
+        "translations": [
+            "equipe"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 660,
+        "word": "experience",
+        "translations": [
+            "experiência"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 661,
+        "word": "language",
+        "translations": [
+            "língua",
+            "idioma"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 662,
+        "word": "Mrs.",
+        "translations": [
+            "Sra."
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 663,
+        "word": "plan",
+        "translations": [
+            "plano",
+            "mapa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 664,
+        "word": "department",
+        "translations": [
+            "departamento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 665,
+        "word": "management",
+        "translations": [
+            "admnistração"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 666,
+        "word": "commitee",
+        "translations": [
+            "comitê"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 667,
+        "word": "product",
+        "translations": [
+            "produto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 668,
+        "word": "practice",
+        "translations": [
+            "prática"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 669,
+        "word": "evidence",
+        "translations": [
+            "evidência"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 670,
+        "word": "meeting",
+        "translations": [
+            "reunião"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 671,
+        "word": "union",
+        "translations": [
+            "união"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 672,
+        "word": "role",
+        "translations": [
+            "papel (num filme)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 673,
+        "word": "event",
+        "translations": [
+            "evento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 674,
+        "word": "land",
+        "translations": [
+            "terra",
+            "país"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 675,
+        "word": "support",
+        "translations": [
+            "apoio"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 676,
+        "word": "range",
+        "translations": [
+            "faixa",
+            "alcançe"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 677,
+        "word": "stage",
+        "translations": [
+            "palco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 678,
+        "word": "trade",
+        "translations": [
+            "comércio"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 679,
+        "word": "field",
+        "translations": [
+            "campo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 680,
+        "word": "history",
+        "translations": [
+            "história"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 681,
+        "word": "account",
+        "translations": [
+            "conta (rede social)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 682,
+        "word": "care",
+        "translations": [
+            "cuidado"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 683,
+        "word": "situation",
+        "translations": [
+            "situação"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 684,
+        "word": "manager",
+        "translations": [
+            "diretor",
+            "gerente"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 685,
+        "word": "project",
+        "translations": [
+            "projeto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 686,
+        "word": "record",
+        "translations": [
+            "registro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 687,
+        "word": "record",
+        "translations": [
+            "recorde"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 688,
+        "word": "example",
+        "translations": [
+            "exemplo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 689,
+        "word": "training",
+        "translations": [
+            "treinamento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 690,
+        "word": "air",
+        "translations": [
+            "ar"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 691,
+        "word": "difference",
+        "translations": [
+            "diferença"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 692,
+        "word": "relantionship",
+        "translations": [
+            "relação"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 693,
+        "word": "sir",
+        "translations": [],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 694,
+        "word": "quality",
+        "translations": [
+            "qualidade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 695,
+        "word": "rule",
+        "translations": [
+            "regra"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 696,
+        "word": "story",
+        "translations": [
+            "estória"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 697,
+        "word": "tax",
+        "translations": [
+            "imposto"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 698,
+        "word": "worker",
+        "translations": [
+            "trabalhador"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 699,
+        "word": "data",
+        "translations": [
+            "dados"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 700,
+        "word": "model",
+        "translations": [
+            "modelo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 701,
+        "word": "officer",
+        "translations": [
+            "oficial"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 702,
+        "word": "structure",
+        "translations": [
+            "estrutura"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 703,
+        "word": "method",
+        "translations": [
+            "método"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 704,
+        "word": "unit",
+        "translations": [
+            "unidade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 705,
+        "word": "movement",
+        "translations": [
+            "movimento"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 706,
+        "word": "detail",
+        "translations": [
+            "detalhe"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 707,
+        "word": "amount",
+        "translations": [
+            "quantidade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 708,
+        "word": "approach",
+        "translations": [
+            "abordagem"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 709,
+        "word": "bit",
+        "translations": [
+            "um pouco"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 710,
+        "word": "award",
+        "translations": [
+            "recompensa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 711,
+        "word": "scheme",
+        "translations": [
+            "esquema"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 712,
+        "word": "chapter",
+        "translations": [
+            "capítulo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 713,
+        "word": "theory",
+        "translations": [
+            "teoria"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 714,
+        "word": "property",
+        "translations": [
+            "propriedade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 715,
+        "word": "director",
+        "translations": [
+            "diretor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 716,
+        "word": "leader",
+        "translations": [
+            "líder"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 717,
+        "word": "application",
+        "translations": [
+            "aplicação"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 718,
+        "word": "firm",
+        "translations": [
+            "firma",
+            "empresa"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 719,
+        "word": "board",
+        "translations": [
+            "tábua",
+            "quadro"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 720,
+        "word": "production",
+        "translations": [
+            "produção"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 721,
+        "word": "chance",
+        "translations": [
+            "chance"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 722,
+        "word": "operation",
+        "translations": [
+            "operação"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 723,
+        "word": "opportunity",
+        "translations": [
+            "oportunidade"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 724,
+        "word": "share",
+        "translations": [
+            "parte",
+            "ação (bolsa de valores)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 725,
+        "word": "agreement",
+        "translations": [
+            "acordo"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 726,
+        "word": "Lord",
+        "translations": [
+            "Senhor"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 727,
+        "word": "picture",
+        "translations": [
+            "imagem",
+            "fotografia"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 728,
+        "word": "test",
+        "translations": [
+            "teste",
+            "prova"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 729,
+        "word": "security",
+        "translations": [
+            "segurança (proteção)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 730,
+        "word": "safety",
+        "translations": [
+            "segurança (pessoal)"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 731,
+        "word": "thousand",
+        "translations": [
+            "milhar"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    },
+    {
+        "id": 732,
+        "word": "hundred",
+        "translations": [
+            "centena"
+        ],
+        "wordClass": [
+            "noun"
+        ],
+        "tags": [
+            "nouns"
+        ]
+    }
+]

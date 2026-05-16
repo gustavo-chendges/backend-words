@@ -5,7 +5,7 @@ const verifyJWT = (req, res, next) => {
 
     if (!authHeader?.startsWith('Token')) {
         return res.status(401).json({
-            message: 'No Token Authorization'
+            message: 'Sem token de autorização'
         })
     }
 
@@ -15,7 +15,7 @@ const verifyJWT = (req, res, next) => {
         token,
         process.env.ACCESS_TOKEN_SECRET,
         (err, decoded) => {
-            if (err) return res.status(403).json({ message: 'Access token expired' })
+            if (err) return res.status(403).json({ message: 'Token de acesso expirado' })
 
             req.id = decoded.UserInfo.id
             req.username = decoded.UserInfo.username

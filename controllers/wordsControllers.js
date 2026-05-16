@@ -1,188 +1,175 @@
-const path = require('path')
-const fsPromises = require('fs').promises
-
-const UserWords = require('../model/UserWords')
+const { findUser } = require('../services/userServices')
+const { getWordsFromCategory, saveWords } = require('../services/wordsServices')
 
 const getAllWords = async (req, res) => {
-    const category = req.params.category
-    const id = req?.id
+    try {
+        const category = req.params.category
+        const userId = req?.id
 
-    const wordsMemory = JSON.parse(await fsPromises.readFile(path.join(__dirname, '..', 'data', 'words', `${category}.json`), "utf8", (err, data) => {
-        if (err) throw err
+        const wordsMemory = await getWordsFromCategory(category)
 
-        return data
-    }))
+        const foundUser = await findUser("_id", userId)
 
-    const user = await UserWords.findById(id).lean().exec()
+        const wordsMongo = foundUser.words[category]
 
-    const wordsMongo = user.words[category]
+        const words = [...wordsMemory, ...wordsMongo]
 
-    const words = [...wordsMemory, ...wordsMongo]
-
-    res.json(words)
-}
-
-const getWordById = async (req, res) => {
-    const category = req.params.category
-    const id = req.params.id
-
-    const words = JSON.parse(await fsPromises.readFile(path.join(__dirname, '..', 'data', 'words', `${category}.json`), "utf8", (err, data) => {
-        if (err) throw err
-
-        return data
-    }))
-
-    const word = words.find(word => word.id === parseInt(id))
-
-    if (!word) {
-        return res.json({ message: `No ${category} with id ${id}` })
+        res.status(200).json(words)
+    } catch (err) {
+        console.error({
+            message: err.message,
+            route: req.originalUrl,
+            method: req.method,
+        })
+        res.status(500).json({ message: "Erro ao buscar palavras" })
     }
-
-    res.json(word)
 }
 
 const addNewWord = async (req, res) => {
-    const { word, translations, category, wordClass } = req.body
-    const userId = req?.id
+    try {
+        const { word, translations, category, wordClass } = req.validatedData
+        const userId = req?.id
 
-    if (!userId) {
-        return res.status(400).json({ message: "ID is required" })
+        if (!userId) {
+            return res.status(400).json({ message: "ID é necessário" })
+        }
+
+        const foundUser = await findUser("_id", userId)
+
+        const wordsMongo = foundUser.words[category]
+
+        let newIdWord
+
+        if (!wordsMongo.length) {
+            const wordsMemory = await getWordsFromCategory(category)
+
+            newIdWord = wordsMemory[wordsMemory.length - 1].id + 1
+        } else {
+            newIdWord = wordsMongo[wordsMongo.length - 1].id + 1
+        }
+
+        const newWord = { id: newIdWord, word, translations, wordClass, custom: true }
+
+        const newWordsArray = [...wordsMongo, newWord]
+
+        await saveWords(foundUser, category, newWordsArray)
+
+        res.status(201).json({ message: `Nova palavra ${word} adicionada` })
+    } catch (err) {
+        console.error({
+            message: err.message,
+            route: req.originalUrl,
+            method: req.method,
+        })
+        res.status(500).json({ message: "Erro ao adicionar palavra" })
     }
-
-    const user = await UserWords.findById(userId).exec()
-
-    const wordsMongo = user.words[category]
-
-    let newIdWord
-
-    if (!wordsMongo.length) {
-        const wordsMemory = JSON.parse(await fsPromises.readFile(path.join(__dirname, '..', 'data', 'words', `${category}.json`), "utf8", (err, data) => {
-            if (err) throw err
-
-            return data
-        }))
-
-        newIdWord = wordsMemory[wordsMemory.length - 1].id + 1
-    } else {
-        newIdWord = wordsMongo[wordsMongo.length - 1].id + 1
-    }
-
-    const newWord = { id: newIdWord, word, translations, wordClass, custom: true }
-
-    const newWordsArray = [...wordsMongo, newWord]
-
-    user.words[category] = newWordsArray
-    await user.save()
-
-    res.status(201).json({ message: `New word ${word} added` })
 }
 
 const updateWord = async (req, res) => {
-    const { id, word, translations, wordClass, previousCategory, nextCategory } = req.body
-    const userId = req?.id
+    try {
+        const { id, word, translations, wordClass, previousCategory, nextCategory } = req.validatedData
+        const userId = req?.id
 
-    if (!id || !previousCategory || !nextCategory) {
-        return res.status(400).json({ message: "ID and category are required" })
-    }
-
-    if (!userId) {
-        return res.status(400).json({ message: "User ID is required" })
-    }
-
-    const user = await UserWords.findById(userId).exec()
-    const wordsMongo = user.words[previousCategory]
-
-    const selectedWord = wordsMongo.find(word => word.id === parseInt(id))
-
-    if (!selectedWord.custom) {
-        return res.status(400).json({ message: "Cannot update this word!" })
-    }
-
-    const wordsArray = wordsMongo.filter(word => word.id !== parseInt(id))
-
-    if (previousCategory !== nextCategory) {
-
-        user.words[previousCategory] = wordsArray
-
-        const nextCategoryMemoryArray = JSON.parse(await fsPromises.readFile(path.join(__dirname, '..', 'data', 'words', `${nextCategory}.json`), "utf8", (err, data) => {
-            if (err) throw err
-
-            return data
-        }))
-
-        const nextCategoryMongoArray = user.words[nextCategory]
-
-        const updatedWord = {
-            id: nextCategoryMongoArray.length ? nextCategoryMongoArray[nextCategoryMongoArray.length - 1].id + 1 : nextCategoryMemoryArray[nextCategoryMemoryArray.length - 1].id + 1,
-            word,
-            translations,
-            wordClass: wordClass.toLowerCase(),
+        if (!userId) {
+            return res.status(400).json({ message: "ID de usuário é necessário" })
         }
 
-        const updatedWordsArray = [...nextCategoryMongoArray, updatedWord].sort((a, b) => a.id - b.id)
+        const foundUser = await findUser("_id", userId)
+        const wordsMongo = foundUser.words[previousCategory]
 
-        user.words[nextCategory] = updatedWordsArray
+        const selectedWord = wordsMongo.find(word => word.id === parseInt(id))
 
-        await user.save()
-
-        return res.json(updatedWordsArray)
-
-    } else {
-
-        const updatedWord = {
-            id,
-            word,
-            translations,
-            wordClass: wordClass.toLowerCase(),
+        if (!selectedWord.custom) {
+            return res.status(400).json({ message: "Não é possível atualizar essa palavra!" })
         }
 
-        const updatedWordsArray = [...wordsArray, updatedWord].sort((a, b) => a.id - b.id)
+        const wordsArray = wordsMongo.filter(word => word.id !== parseInt(id))
 
-        user.words[nextCategory] = updatedWordsArray
+        if (previousCategory !== nextCategory) {
 
-        await user.save()
+            foundUser.words[previousCategory] = wordsArray
 
-        return res.json(updatedWordsArray)
+            const nextCategoryMemoryArray = await getWordsFromCategory(nextCategory)
+
+            const nextCategoryMongoArray = foundUser.words[nextCategory]
+
+            const updatedWord = {
+                id: nextCategoryMongoArray.length ? nextCategoryMongoArray[nextCategoryMongoArray.length - 1].id + 1 : nextCategoryMemoryArray[nextCategoryMemoryArray.length - 1].id + 1,
+                word,
+                translations,
+                wordClass: wordClass.toLowerCase(),
+            }
+
+            const updatedWordsArray = [...nextCategoryMongoArray, updatedWord].sort((a, b) => a.id - b.id)
+
+            await saveWords(foundUser, nextCategory, updatedWordsArray)
+
+            return res.json(updatedWordsArray)
+
+        } else {
+
+            const updatedWord = {
+                id,
+                word,
+                translations,
+                wordClass: wordClass.toLowerCase(),
+            }
+
+            const updatedWordsArray = [...wordsArray, updatedWord].sort((a, b) => a.id - b.id)
+
+            await saveWords(foundUser, nextCategory, updatedWordsArray)
+
+            return res.json(updatedWordsArray)
+        }
+    } catch (err) {
+        console.error({
+            message: err.message,
+            route: req.originalUrl,
+            method: req.method,
+        })
+        res.status(500).json({ message: "Erro ao atualizar palavra" })
     }
 }
 
 const deleteWord = async (req, res) => {
-    const { id, category } = req.body
-    const userId = req?.id
+    try {
+        const { id, category } = req.validatedData
+        const userId = req?.id
 
+        if (!userId) {
+            return res.status(400).json({ message: "ID de usuário é necessário" })
+        }
 
-    if (!id || !category) {
-        return res.status(400).json({ message: "ID and category are required" })
+        const foundUser = await findUser("_id", userId)
+        const wordsMongo = foundUser.words[category]
+
+        const selectedWord = wordsMongo.find(word => word.id === parseInt(id))
+
+        if (!selectedWord) {
+            return res.status(400).json({ message: "Essa palavra não existe!" })
+        }
+
+        if (!selectedWord.custom) {
+            return res.status(400).json({ message: "Não é possível deletar essa palavra!" })
+        }
+
+        const wordsArray = wordsMongo.filter(word => word.id !== parseInt(id))
+
+        await saveWords(foundUser, category, wordsArray)
+
+        res.json(selectedWord)
+    } catch (err) {
+        console.error({
+            message: err.message,
+            route: req.originalUrl,
+            method: req.method,
+        })
+        res.status(500).json({ message: "Erro ao excluir palavra" })
     }
-    if (!userId) {
-        return res.status(400).json({ message: "User ID is required" })
-    }
-
-    const user = await UserWords.findById(userId).exec()
-    const wordsMongo = user.words[category]
-
-    const selectedWord = wordsMongo.find(word => word.id === parseInt(id))
-
-    if (!selectedWord) {
-        return res.status(400).json({ message: "This word does not exist!" })
-    }
-
-    if (!selectedWord.custom) {
-        return res.status(400).json({ message: "Cannot delete this word!" })
-    }
-
-    const wordsArray = wordsMongo.filter(word => word.id !== id)
-
-    user.words[category] = wordsArray
-
-    await user.save()
-
-    res.json(selectedWord)
 }
 
 module.exports = {
     getAllWords,
-    getWordById,
     addNewWord,
     updateWord,
     deleteWord

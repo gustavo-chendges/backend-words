@@ -23,5 +23,45 @@
             "com"
         ],
         "wordClass": "preposition"
+    },
+    {
+        "id": 127,
+        "word": "to",
+        "translations": [
+            "para"
+        ],
+        "wordClass": [
+            "preposition"
+        ],
+        "tags": [
+            "grammatical"
+        ]
+    },
+    {
+        "id": 128,
+        "word": "for",
+        "translations": [
+            "para",
+            "por"
+        ],
+        "wordClass": [
+            "preposition"
+        ],
+        "tags": [
+            "grammatical"
+        ]
+    },
+    {
+        "id": 129,
+        "word": "with",
+        "translations": [
+            "com"
+        ],
+        "wordClass": [
+            "preposition"
+        ],
+        "tags": [
+            "grammatical"
+        ]
     }
 ]
