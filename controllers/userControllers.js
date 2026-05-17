@@ -199,6 +199,7 @@ const updateUser = async (req, res) => {
 const deleteUser = async (req, res) => {
 
     let foundUser
+
     try {
         const id = req?.id
 
@@ -209,6 +210,16 @@ const deleteUser = async (req, res) => {
         }
 
         req.log.warn({username: foundUser.username}, "Tentativa de exclusão da conta")
+
+        const foundUserWords = await UserWords.find({
+            userId: id
+        })
+
+        console.log("FoundUser: ",foundUserWords)
+
+        if(foundUserWords.length){
+            return res.status(401).json("Erro ao excluir usuário com palavras vinculadas")
+        }
 
         saveUserField(foundUser, "refreshToken", "")
         await saveUser(foundUser)

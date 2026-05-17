@@ -5,9 +5,6 @@ const setWordCategory = require("../../../lib/setWordCategory")
 const rawData = fs.readFileSync("../nouns.json", "utf-8");
 const nouns = JSON.parse(rawData);
 
-console.log(nouns)
-
-
 // ID inicial
 let currentId = 130;
 
