@@ -25,9 +25,11 @@ app.use('/words', require('./routes/wordsRoutes'))
 app.use('/v2/words', require('./routes/v2/wordsRoutes'))
 
 mongoose.connection.once('open', () => {
-    app.listen(PORT, () => console.log(`Server running on port ${PORT}`))
+   console.log(`MongoDB connected`)
 })
 
 mongoose.connection.on('error', (err) => {
     console.log(err)
 })
+
+module.exports = app
