@@ -113,7 +113,6 @@ const validateEmail = async (req, res) => {
 
         const accessToken = createAccessToken(foundUser)
 
-
         req.log.info({ username: foundUser.username }, "Email verificado com sucesso")
         return res.status(200).json({ message: "Email verificado com sucesso", accessToken })
     } catch (err) {
