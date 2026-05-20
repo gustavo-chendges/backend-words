@@ -13,11 +13,11 @@ const login = async (req, res) => {
     try {
         const { password } = req.validatedData
 
-        const { accessToken, refreshToken } = await loginService({ username, password })
+        const { accessToken, newRefreshToken } = await loginService({ username, password })
 
         req.log.info({ username }, "Login efetuado com sucesso")
 
-        res.cookie('jwt', refreshToken, {
+        res.cookie('jwt', newRefreshToken, {
             httpOnly: true,
             secure: true,
             sameSite: 'None',

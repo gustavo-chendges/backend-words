@@ -25,7 +25,8 @@ app.use('/words', require('./routes/wordsRoutes'))
 app.use('/v2/words', require('./routes/v2/wordsRoutes'))
 
 mongoose.connection.once('open', () => {
-   console.log(`MongoDB connected`)
+    console.log("MongoDB conectado")
+    //app.listen(PORT, () => console.log(`MongoDB conectado`))
 })
 
 mongoose.connection.on('error', (err) => {

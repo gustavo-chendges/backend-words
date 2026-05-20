@@ -15,12 +15,12 @@ async function loginService({ username, password }) {
 
     const accessToken = createAccessToken(foundUser)
 
-    const refreshToken = createRefreshToken(foundUser)
+    const newRefreshToken = createRefreshToken(foundUser)
 
-    saveUserField(foundUser, "refreshToken", refreshToken)
+    saveUserField(foundUser, "refreshToken", newRefreshToken)
     await saveUser(foundUser)
 
-    return { accessToken, refreshToken }
+    return { accessToken, newRefreshToken }
 }
 
 async function matchPassword(password, user) {
