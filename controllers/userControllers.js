@@ -38,9 +38,9 @@ const createNewUser = async (req, res) => {
             req.log.error({ err, username }, "Erro no serviço do email de verificação")
         }
 
-        const { accessToken, refreshToken } = await loginService({ username, password })
+        const { accessToken, newRefreshToken } = await loginService({ username, password })
 
-        res.cookie('jwt', refreshToken, {
+        res.cookie('jwt', newRefreshToken, {
             httpOnly: true,
             secure: true,
             sameSite: 'None',
