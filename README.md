@@ -1,11 +1,12 @@
 # Backend LangApp
 - Link: https://gustavo-chendges.github.io/frontend-words/#/
+- API: https://backend-words.vercel.app/
 - Esse é backend do LangApp, a primeira versão de um projeto acadêmico/educacional que ainda vai receber diversas atualizações, refatorações e novas funcionalidades. A ideia pr trás do app é servir como um caderno online para estudantes de idiomas, no qual o usuário pode adicionar palavras novas na língua-alvo, suas categorias gramáticais e uma lista de traduções (máximo de três por palavra).
 
 ## Descrição:
 - Além do sistema de CRUD básico, o sistema conta com autenticação via JWT, com tokens de acesso (que permitem expiram mais rapidamente e permitem o acesso aos recursos da plataforma) e tokens de refresh (que são enviados e armazenados somente em cookies e servem para emitir novos tokens de acesso e possuem uma duração maior). Também foi implementado um sistema de cadastro via email e nome de usuário, validação de email (via token) e recuperação de senha (que requer que o email tenha sido previamente validado.
-- No backend especialmente, foram tomadas decisões após consulta a documentação, tutoriais do YouTube e ferramentas de inteligência artificial. Mais do que no frontend, algumas escolhas iniciais se demonstraram insustentáveis e foram substituídas por uma versão atualizada da API ao longo do desenvolvimento. Um exemplo disso são os arquivos relacionados a "words" (tanto controllers, como validadores e rotas), que tiveram que ser migrados para uma segunda versão (por isso, encontram-se dentro de pastas denominadas "/v2"), pois as relações de cardinalidade no banco de dados, bem como a escalabilidade não haviam sido consideradas corretamente.
-- Outro elemento "legado", mas funcional, é a decisão e manter as palavras básicas (disponíveis por padrão) em um arquivo JSON armazenado no próprio repositório, ao invés de migrá-las para uma tabela própria no MongoDB. Essa reestruturação será considerada no futuro.
+- No backend especialmente, foram tomadas decisões após consulta a documentação, tutoriais do YouTube e ferramentas de inteligência artificial. Ao longo do desenvolvimento, algumas decisões estruturais foram revisadas para garantir a futura adição de novas funcionalidades e escalabilidade da aplicação. Um exemplo disso são os arquivos relacionados a "words" (tanto controllers, como validadores e rotas), que tiveram que ser migrados para uma segunda versão (por isso, encontram-se dentro de pastas denominadas "/v2"), pois as relações de cardinalidade no banco de dados não haviam sido consideradas corretamente.
+- Uma decisão ainda presente na aplicação é o armazenamento das palavras básicas (disponíveis por padrão) em um arquivo JSON armazenado no próprio repositório. Apesar de funcional, essa abordagem será substituída pela migração de tais itens para uma tabela dedicada no MongoDB no futuro.
 
 ## Arquitetura e tecnologias utilizadas:
 - NodeJS (com Javascript).
@@ -18,6 +19,24 @@
 
 ### Fluxo da aplicação:
 - Requisição do usuário -> rotas -> middlewares -> validadores -> controllers -> MongoDB
+
+## Rotas:
+### Autnenticação:
+- POST /auth/login
+- GET /auth/logout
+- GET /auth/refresh
+
+### Usuários: 
+- POST /users
+- PATCH /users
+- DELETE /users
+
+### Palavras
+- POST /v2/words
+- GET /v2/words/:category
+- PATCH /v2/words/:id
+- DELETE /v2/words/:id
+  
 
 ## Funcionalidades:
 - CRUD simples de palavras em inglês com suas traduções
@@ -49,7 +68,7 @@
 
 ## Instalação:
 - git clone https://github.com/gustavo-chendges/backend-words.git
-- npm run install
+- npm install
 - Crie .env com as seguintes variáveis:
 - DATABASE_URI = 
 - ACCESS_TOKEN_SECRET = 
