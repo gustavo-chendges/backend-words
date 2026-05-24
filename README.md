@@ -77,6 +77,8 @@
 - EMAIL_PASS = 
 - NODE_ENV =
 - PORT =
+- Comentar ou excluir a linha "module.exports = app" do arquivo server.js
+- Adicionar "app.listen(PORT, () => console.log(`MongoDB conectado`))" à função callback do mongoose.connection no arquivo server.js.
 - npm run dev
 
 ## Melhorias futuras:
