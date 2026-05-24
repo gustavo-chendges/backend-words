@@ -15,4 +15,16 @@
 - Pino para logs.
 
 ## Funcionalidades:
+- CRUD simples de palavras em inglês com suas traduções
+- Cadastro e login de usuários com email, nome e senha.
+- Validação de email para permitir recuperação da senha e edição de dados da conta.
+- Rate limiting básico para login, validação de
+- Observabilidade através de logs com Pino.
+- Deploy via Vercel
+
+## Melhorias futuras:
+- Suporte a múltiplas sessões.
 - 
+
+# Importante
+- Por se tratar de um projeto de nível inciante, é possível que algumas funcionalidades não sigam o padrão comum em projetos profissionais reais.
