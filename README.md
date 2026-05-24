@@ -1,9 +1,10 @@
 # Backend LangApp
-- Esse é backend do LangApp, a primeira versão de um projeto acadêmico/educacional que ainda vai receber diversas atualizações, refatorações e novas funcionalidades. A ideia pr trás do app é servir como um caderno online para estudantes de idiomas, no qual o usuário pode adicionar palavras novas na língua-alvo, suas categorias gramáticais e uma lista de traduções (máximo de três).
-- Além do sistema de CRUD básico, o sistema conta com autenticação via JWT, com tokens de acesso (que permitem expiram mais rapidamente e permitem o acesso aos recursos da plataforma) e tokens de refresh (que são enviados e armazenados somente em cookies e servem para emitir novos tokens de acesso e possuem uma duração maior). Também foi implementado um sistema de cadastro via email e nome de usuário (sendo ambos chaves primárias no banco de dados), validação de email (via token) e recuperação de senha (que requer que o email tenha sido previamente validado.
+- Esse é backend do LangApp, a primeira versão de um projeto acadêmico/educacional que ainda vai receber diversas atualizações, refatorações e novas funcionalidades. A ideia pr trás do app é servir como um caderno online para estudantes de idiomas, no qual o usuário pode adicionar palavras novas na língua-alvo, suas categorias gramáticais e uma lista de traduções (máximo de três por palavra).
 
 ## Descrição:
-- No backend especialmente, foram
+- Além do sistema de CRUD básico, o sistema conta com autenticação via JWT, com tokens de acesso (que permitem expiram mais rapidamente e permitem o acesso aos recursos da plataforma) e tokens de refresh (que são enviados e armazenados somente em cookies e servem para emitir novos tokens de acesso e possuem uma duração maior). Também foi implementado um sistema de cadastro via email e nome de usuário (sendo ambos chaves primárias no banco de dados), validação de email (via token) e recuperação de senha (que requer que o email tenha sido previamente validado.
+- No backend especialmente, foram tomadas decisões após consulta a documentação, tutoriais do YouTube e ferramentas de inteligência artificial. Mais do que no frontend, algumas escolhas iniciais se demonstraram insustentáveis e foram substituídas por uma versão atualizada da API ao longo do desenvolvimento. Um exemplo disso são os arquivos relacionados a "words" (tanto controllers, como validadores e rotas), que tiveram que ser migrados para uma segunda versão (por isso, encontram-se dentro de pastas denominadas "/v2"), pois as relações de cardinalidade no banco de dados, bem como a escalabilidade não haviam sido consideradas corretamente.
+- Outro elemento "legado", mas funcional, é a decisão e manter as palavras básicas (disponíveis por padrão) em um arquivo JSON armazenado no próprio repositório, ao invés de migrá-las para uma tabela própria no MongoDB. Essa reestruturação será considerada no futuro.
 
 ## Tecnologias utilizadas:
 - NodeJS (com Javascript)
@@ -18,13 +19,18 @@
 - CRUD simples de palavras em inglês com suas traduções
 - Cadastro e login de usuários com email, nome e senha.
 - Validação de email para permitir recuperação da senha e edição de dados da conta.
-- Rate limiting básico para login, validação de
+- Rate limiting básico para login, validação de email e operações de fetch.
 - Observabilidade através de logs com Pino.
-- Deploy via Vercel
+- Deploy via Vercel.
 
 ## Melhorias futuras:
 - Suporte a múltiplas sessões.
-- 
+- Rotação de tokens.
+- Migração das palavras básicas para o banco de dados.
+- Criação de um "pool" único de palavras no banco de dados, do qual os usuários apenas recebem uma relação em uma tabela separada, na qual são aplicadas todas as personalizações.
+- Sistema de repetição espaçada.
+- Implementação de sistema de autorização para diferenciar usuários "Professores" e "Alunos".
+- Possibilidade de compatilhamento de deques entre usuários.
 
 # Importante
-- Por se tratar de um projeto de nível inciante, é possível que algumas funcionalidades não sigam o padrão comum em projetos profissionais reais.
+- Por se tratar de um projeto de nível inciante, é possível que algumas funcionalidades não sigam o padrão comum em projetos profissionais reais. Algumas dessas limitações já devem ter sido aludidas acima. Já outras, devem escapar totalmente o domínio do desenvolvedor.
