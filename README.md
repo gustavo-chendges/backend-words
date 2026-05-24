@@ -1,4 +1,5 @@
 # Backend LangApp
+- Link: https://gustavo-chendges.github.io/frontend-words/#/
 - Esse é backend do LangApp, a primeira versão de um projeto acadêmico/educacional que ainda vai receber diversas atualizações, refatorações e novas funcionalidades. A ideia pr trás do app é servir como um caderno online para estudantes de idiomas, no qual o usuário pode adicionar palavras novas na língua-alvo, suas categorias gramáticais e uma lista de traduções (máximo de três por palavra).
 
 ## Descrição:
@@ -33,4 +34,4 @@
 - Possibilidade de compatilhamento de deques entre usuários.
 
 # Importante
-- Por se tratar de um projeto de nível inciante, é possível que algumas funcionalidades não sigam o padrão comum em projetos profissionais reais. Algumas dessas limitações já devem ter sido aludidas acima. Já outras, devem escapar totalmente o domínio do desenvolvedor.
+- Por se tratar de um projeto de nível inciante, é possível que algumas funcionalidades não sigam o padrão comum em projetos profissionais reais.
