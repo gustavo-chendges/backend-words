@@ -57,7 +57,7 @@
 - EMAIL_USER = 
 - EMAIL_PASS = 
 - NODE_ENV =
-- PORT
+- PORT =
 - npm run dev
 
 ## Melhorias futuras:
