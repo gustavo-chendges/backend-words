@@ -1,6 +1,5 @@
 require('dotenv').config()
 
-const path = require('path')
 const express = require('express')
 const app = express()
 app.set('trust proxy', 1)
@@ -23,12 +22,10 @@ app.use(httpLogger)
 
 app.use('/auth', require('./routes/authRoutes'))
 app.use('/users', require('./routes/userRoutes'))
-app.use('/words', require('./routes/wordsRoutes'))
 app.use('/v2/words', require('./routes/v2/wordsRoutes'))
 
 mongoose.connection.once('open', () => {
     console.log("MongoDB conectado")
-    //app.listen(PORT, () => console.log(`MongoDB conectado`))
 })
 
 mongoose.connection.on('error', (err) => {
