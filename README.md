@@ -93,6 +93,12 @@
 
 # Importante
 - Por se tratar de um projeto de nível inciante, é possível que algumas funcionalidades não sigam o padrão comum em projetos profissionais reais.
+### Persistência
+- Como o frontend e o backend estão hospedados em domínios diferentes (Github Pages e Vercel, respectivamente, alguns navegadores ou modos de navegação bloqueiam os cookies enviados, o que faz com que a persistência e o refresh falhe. Nesses casos:
+- O login e o cadastro continuam funcionando normalmente (o usuário e o refreshToken são criados no banco de dados).
+- O usuário recém-cadastrado precisa realizar login manualmente após ser redirecionado à landing page.
+- O CRUD continua funcionando normalmente.
+- Esse problema será corrigido em versões futuras. 
 
 # Notas:
 - Confira também o frontend: https://github.com/gustavo-chendges/frontend-words
